@@ -1,4 +1,4 @@
-# Hi :wave: , I'm Davy!
+# Hey there :wave:
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavySz)
 [![Github Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davy_sz)
