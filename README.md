@@ -8,8 +8,6 @@
 
 :computer: Web front-end development with ReactJs
 
-:floppy_disk: Postgres, Firebase (Cloud Firestore/Real Time), MySQL.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavySz&layout=compact)](https://github.com/DavySz/github-readme-stats)
 
 
