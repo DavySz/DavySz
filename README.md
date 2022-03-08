@@ -6,7 +6,12 @@
 
 :computer: Web front-end development with ReactJs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavySz&layout=compact)](https://github.com/DavySz/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/apolofreitas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davysz&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davysz&show_icons=true&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
 
 ### About me:
