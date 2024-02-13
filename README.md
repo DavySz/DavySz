@@ -9,14 +9,14 @@
 
 :computer: Web front-end development with
 
-- ReactJs
+- React
 - Typescript
 
 :house: Backend developer with
 
-- Node Js
+- Node
+- Nest
 - Typescript
-- Nest Js
 
 <div align="center">
   <a href="https://github.com/davysz">
