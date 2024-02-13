@@ -2,9 +2,21 @@
 
 
 ### Currently my stack is:
-:iphone: Mobile applications for Android and iOS with React Native
+:iphone: Mobile applications for Android and iOS with
 
-:computer: Web front-end development with ReactJs
+- React Native for cross plataform
+- Native Android with Kotlin
+
+:computer: Web front-end development with
+
+- ReactJs
+- Typescript
+
+:house: Backend developer with
+
+- Node Js
+- Typescript
+- Nest Js
 
 <div align="center">
   <a href="https://github.com/davysz">
