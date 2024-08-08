@@ -1,23 +1,5 @@
 # Hey there :wave:
 
-
-### Currently my stack is:
-:iphone: Mobile applications for Android and iOS with
-
-- React Native for cross plataform
-- Native Android with Kotlin
-
-:computer: Web front-end development with
-
-- React
-- Typescript
-
-:house: Backend developer with
-
-- Node
-- Nest
-- Typescript
-
 <div align="center">
   <a href="https://github.com/davysz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davysz&layout=compact"/>
